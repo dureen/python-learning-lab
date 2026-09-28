@@ -2,6 +2,8 @@
 
 Hands-on Python tutorial repository divided into **Beginner**, **Intermediate**, and **Advanced** levels.
 
+**Last updated:** September 28, 2026
+
 Each lesson contains:
 - Clear explanation
 - Runnable example code
